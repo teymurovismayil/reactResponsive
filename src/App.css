@@ -1,0 +1,37 @@
+.logInBtn {
+    border-radius: 9999px;
+}
+
+.left-side {
+
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.right-side {
+ 
+    height: 90vh;
+    display: flex;
+    align-items: center;
+}
+
+.donate_Btn {
+    transition: all 1s;
+    border-radius: 9999px;
+    margin: 0.5rem;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.box {
+    height: 90px;
+    width: 120px;
+}
