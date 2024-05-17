@@ -26,7 +26,10 @@ export const Banney = () => {
                 <h4>140+</h4>
                 <p>Thousands volunteers</p>
             </div>
-            <div className='box'></div>
+            <div className='box'>
+              <h4>500+</h4>
+              <p>Worid wide Offices</p>
+            </div>
             </div>
         </div>
        </div>
